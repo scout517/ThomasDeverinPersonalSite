@@ -1,0 +1,193 @@
+body{
+    color: #40514E;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    text-align: center;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    color: #EAF6F6;
+    border: dotted;
+    width: 10%;
+    border-bottom: none;
+    border-width: 15px;
+    margin: 100px auto;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+a:hover{
+    color: #a4ebf3;
+}
+p{
+    line-height: 2;
+    overflow: auto;
+}
+.topContainer{
+    padding: 3px 0px 0px 0px;
+    background-color: #caf7e3;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    padding: 100px 0px;
+    background-color: #fafaf6;
+}
+.bottom-container{
+    padding: 60px 0px;
+    background-color: #caf7e3;
+}
+.statement{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+.coding-image{
+    width: 25%;
+    float: left;
+    padding: 30px;
+}
+.math-image{
+    width: 25%;
+    float: right;
+    padding: 30px;
+}
+.nrcc-image{
+    width: 30%;
+    padding: 30px;
+    float: left;
+}
+.bhs-image{
+    width: 20%;
+    padding: 20px;
+    float: right;
+}
+.learning-image{
+    width: 25%;
+    padding: 30px;
+    float: left;
+}
+.travel-image{
+    width: 25%;
+    padding: 30px;
+    float: right;
+}
+.tenneco-logo{
+    width: 35%;
+    padding: 30px;
+    float: left;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 320px;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 500px
+}
+
+.mountain{
+    position: relative;
+    top: 6px;
+
+}
+.java-image{
+    position: absolute;
+    width: 5%;
+    right: 300px;
+    transform: rotate(25deg);
+}
+.c-image{
+    position: absolute;
+    width: 5%;
+    left: 350px;
+    top: 200px;
+    transform: rotate(-35deg)
+}
+.python-image{
+    position: absolute;
+    width: 5%;
+    top: 180px;
+    right: 450px;
+    transform: rotate(25deg);
+}
+.html5-image{
+    position: absolute;
+    width: 5%;
+    left: 450px;
+    bottom: 150px;
+    transform: rotate(-20deg);
+}
+.skill-row{
+    overflow: auto;
+    margin: 100px auto 50px auto;
+    text-align: left;
+    width: 50%;
+}
+.education-row{
+    overflow: auto;
+    margin: 100px auto 50px auto;
+    text-align: left;
+    width: 50%;
+}
+.experience-row{
+    overflow: auto;
+    margin: 100px auto 50px auto;
+    text-align: left;
+    width: 50%;
+}
+.hobbies-row{
+    overflow: auto;
+    margin: 100px auto 50px auto;
+    text-align: left;
+    width: 50%;
+}
+.wave-image{
+    position: absolute;
+    left: 0;
+    bottom: 30px;
+    width: 12%;
+}
+.copyright{
+    color: #EAF6F6;
+}
+.profile{
+    margin-bottom: 50px;
+}
+.footer-link{
+    margin: 0px 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.copyright{
+    line-height: 2;
+    color: #40514E;
+    font-size: 0.75rem;
+}
+.contact-message{
+    width: 30%;
+    margin: 40px auto 60px;
+}
+.icons{
+    margin: 30px 0 0 0;
+}
